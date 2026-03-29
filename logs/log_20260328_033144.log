@@ -1,0 +1,12 @@
+2026-03-28 03:32:23,606 - __main__ - INFO - Sending request to backend
+2026-03-28 03:32:23,610 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8080
+2026-03-28 03:32:23,837 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8080 "POST /chat HTTP/1.1" 500 501
+2026-03-28 03:32:23,838 - __main__ - ERROR - Backend error
+2026-03-28 03:32:26,510 - __main__ - INFO - Sending request to backend
+2026-03-28 03:32:26,511 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8080
+2026-03-28 03:32:26,514 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8080 "POST /chat HTTP/1.1" 500 501
+2026-03-28 03:32:26,514 - __main__ - ERROR - Backend error
+2026-03-28 03:32:28,126 - __main__ - INFO - Sending request to backend
+2026-03-28 03:32:28,127 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8080
+2026-03-28 03:32:28,129 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8080 "POST /chat HTTP/1.1" 500 501
+2026-03-28 03:32:28,130 - __main__ - ERROR - Backend error

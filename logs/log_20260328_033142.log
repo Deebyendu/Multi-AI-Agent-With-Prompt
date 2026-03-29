@@ -1,0 +1,6 @@
+2026-03-28 03:32:23,754 - app.backend.fast_api - INFO - Request state is llama-3.3-70b-versatile.
+2026-03-28 03:32:23,808 - app.backend.fast_api - ERROR - Failed to chat with the AI Agent!
+2026-03-28 03:32:26,513 - app.backend.fast_api - INFO - Request state is llama-3.3-70b-versatile.
+2026-03-28 03:32:26,513 - app.backend.fast_api - ERROR - Failed to chat with the AI Agent!
+2026-03-28 03:32:28,129 - app.backend.fast_api - INFO - Request state is llama-3.3-70b-versatile.
+2026-03-28 03:32:28,129 - app.backend.fast_api - ERROR - Failed to chat with the AI Agent!
