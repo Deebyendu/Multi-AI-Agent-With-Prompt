@@ -75,7 +75,7 @@ multi-ai-agent/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Deebyendu/Multi-AI-Agent-With-Prompt-.git
+   git clone https://github.com/Deebyendu/Multi-AI-Agent-With-Prompt.git
    cd Multi-AI-Agent-With-Prompt-
    ```
 
